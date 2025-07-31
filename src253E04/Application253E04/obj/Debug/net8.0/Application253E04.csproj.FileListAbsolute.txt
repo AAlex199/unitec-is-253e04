@@ -1,0 +1,11 @@
+E:\Project253E04\src253E04\Application253E04\bin\Debug\net8.0\Application253E04.deps.json
+E:\Project253E04\src253E04\Application253E04\bin\Debug\net8.0\Application253E04.dll
+E:\Project253E04\src253E04\Application253E04\bin\Debug\net8.0\Application253E04.pdb
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\Application253E04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\Application253E04.AssemblyInfoInputs.cache
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\Application253E04.AssemblyInfo.cs
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\Application253E04.csproj.CoreCompileInputs.cache
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\Application253E04.dll
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\refint\Application253E04.dll
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\Application253E04.pdb
+E:\Project253E04\src253E04\Application253E04\obj\Debug\net8.0\ref\Application253E04.dll

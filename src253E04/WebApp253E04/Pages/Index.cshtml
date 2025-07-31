@@ -1,0 +1,15 @@
+@page
+
+@{
+double lado = 5, diagonalMayor = 8, diagonalMenor = 6, altura = 10;
+
+double perimetro = Application.Figura253E04.Perimetro(lado);
+double area = Application.Figura253E04.Area(diagonalMayor, diagonalMenor);
+double volumen = Application.Figura253E04.Volumen(area, altura);
+}
+
+
+<p>Propiedades de un rombo</p>
+<p>Perímetro: @perimetro cm</p>
+<p>Área: @area cm²</p>
+<p>Volumen: @volumen cm³</p>

@@ -1,0 +1,97 @@
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\appsettings.Development.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\appsettings.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.staticwebassets.endpoints.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.exe
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.deps.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.runtimeconfig.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.pdb
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\Application253E04.dll
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\Application253E04.pdb
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.csproj.AssemblyReference.cache
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.AssemblyInfoInputs.cache
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.AssemblyInfo.cs
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.csproj.CoreCompileInputs.cache
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.MvcApplicationPartsAssemblyInfo.cache
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.RazorAssemblyInfo.cache
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.RazorAssemblyInfo.cs
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\scopedcss\bundle\WebApp253E04.styles.css
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.development.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp25.6E609ED5.Up2Date
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\refint\WebApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.pdb
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.genruntimeconfig.cache
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\ref\WebApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\appsettings.Development.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\appsettings.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.staticwebassets.endpoints.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.exe
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.deps.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.runtimeconfig.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.pdb
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\Application253E04.dll
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\bin\Debug\net9.0\Application253E04.pdb
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.csproj.AssemblyReference.cache
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.GeneratedMSBuildEditorConfig.editorconfig
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.AssemblyInfoInputs.cache
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.AssemblyInfo.cs
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.csproj.CoreCompileInputs.cache
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.MvcApplicationPartsAssemblyInfo.cache
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.RazorAssemblyInfo.cache
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.RazorAssemblyInfo.cs
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\scopedcss\bundle\WebApp253E04.styles.css
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.development.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.WebApp253E04.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.WebApp253E04.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApp253E04.props
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApp253E04.props
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApp253E04.props
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.pack.json
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp25.6E609ED5.Up2Date
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\refint\WebApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.pdb
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.genruntimeconfig.cache
+E:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\ref\WebApp253E04.dll
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\appsettings.Development.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\appsettings.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.staticwebassets.endpoints.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.exe
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.deps.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.runtimeconfig.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.dll
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\WebApp253E04.pdb
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\Application253E04.dll
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\bin\Debug\net9.0\Application253E04.pdb
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.csproj.AssemblyReference.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.AssemblyInfoInputs.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.AssemblyInfo.cs
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.csproj.CoreCompileInputs.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.MvcApplicationPartsAssemblyInfo.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.RazorAssemblyInfo.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.RazorAssemblyInfo.cs
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\scopedcss\bundle\WebApp253E04.styles.css
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.development.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp25.6E609ED5.Up2Date
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.dll
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\refint\WebApp253E04.dll
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.pdb
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\WebApp253E04.genruntimeconfig.cache
+D:\ing.Software\Project253E04 -2\src253E04\WebApp253E04\obj\Debug\net9.0\ref\WebApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.WebApp253E04.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.WebApp253E04.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApp253E04.props
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApp253E04.props
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApp253E04.props
+D:\ing.Software\Project253E04\src253E04\WebApp253E04\obj\Debug\net9.0\staticwebassets.pack.json

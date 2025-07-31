@@ -1,0 +1,54 @@
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.exe
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.deps.json
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.runtimeconfig.json
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.dll
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.pdb
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\Application253E04.dll
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\Application253E04.pdb
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.csproj.AssemblyReference.cache
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.AssemblyInfoInputs.cache
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.AssemblyInfo.cs
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.csproj.CoreCompileInputs.cache
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleA.E2438633.Up2Date
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.dll
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\refint\ConsoleApp253E04.dll
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.pdb
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.genruntimeconfig.cache
+C:\Users\ALEX_\OneDrive\Desktop\UNITEC\4Cuatri\Ing. Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ref\ConsoleApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.exe
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.deps.json
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.runtimeconfig.json
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.pdb
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\Application253E04.dll
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\Application253E04.pdb
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.csproj.AssemblyReference.cache
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.AssemblyInfoInputs.cache
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.AssemblyInfo.cs
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.csproj.CoreCompileInputs.cache
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleA.E2438633.Up2Date
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\refint\ConsoleApp253E04.dll
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.pdb
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.genruntimeconfig.cache
+D:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ref\ConsoleApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.exe
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.deps.json
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.runtimeconfig.json
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\ConsoleApp253E04.pdb
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\Application253E04.dll
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\bin\Debug\net9.0\Application253E04.pdb
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.csproj.AssemblyReference.cache
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.GeneratedMSBuildEditorConfig.editorconfig
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.AssemblyInfoInputs.cache
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.AssemblyInfo.cs
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.csproj.CoreCompileInputs.cache
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleA.E2438633.Up2Date
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\refint\ConsoleApp253E04.dll
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.pdb
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ConsoleApp253E04.genruntimeconfig.cache
+E:\ing.Software\Project253E04\src253E04\ConsoleApp253E04\obj\Debug\net9.0\ref\ConsoleApp253E04.dll

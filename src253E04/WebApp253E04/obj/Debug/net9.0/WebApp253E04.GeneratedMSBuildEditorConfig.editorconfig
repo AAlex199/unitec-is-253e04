@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp253E04
+build_property.RootNamespace = WebApp253E04
+build_property.ProjectDir = D:\ing.Software\Project253E04\src253E04\WebApp253E04\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ing.Software\Project253E04\src253E04\WebApp253E04
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/A1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/A2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/A3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/A4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/A5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/alpha1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWxwaGExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/B1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/B2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Beta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmV0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Bid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/caridad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FyaWRhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Centro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VudHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/GEN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR0VOLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Logos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Omega.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT21lZ2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/PGR.CSHTML]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUEdSLkNTSFRNTA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/Star.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ing.Software/Project253E04/src253E04/WebApp253E04/Pages/WW.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV1cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
